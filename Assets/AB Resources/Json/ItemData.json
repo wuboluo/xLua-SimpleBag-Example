@@ -1,0 +1,44 @@
+[
+  {
+    "ID": 1,
+    "Name": "弓箭",
+    "Icon": "Icon_2",
+    "Type": 1,
+    "Description": "远程攻击"
+  },
+  {
+    "ID": 2,
+    "Name": "手套",
+    "Icon": "Icon_1",
+    "Type": 1,
+    "Description": "近战攻击"
+  },
+  {
+    "ID": 3,
+    "Name": "血瓶",
+    "Icon": "Icon_4",
+    "Type": 2,
+    "Description": "立刻回复10生命值"
+  },
+  {
+    "ID": 4,
+    "Name": "法力瓶",
+    "Icon": "Icon_3",
+    "Type": 2,
+    "Description": "立刻回复10法力值"
+  },
+  {
+    "ID": 5,
+    "Name": "红宝石",
+    "Icon": "Icon_5",
+    "Type": 3,
+    "Description": "增加100最大生命值"
+  },
+  {
+    "ID": 6,
+    "Name": "蓝宝石",
+    "Icon": "Icon_6",
+    "Type": 3,
+    "Description": "增加100最大法力值"
+  }
+]

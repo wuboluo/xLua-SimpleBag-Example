@@ -1,9 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="816e3fed-de37-4545-8c8b-4068a3d95c51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.xLua-SimpleBag-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xLua-SimpleBag-Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/com.unity.assetbundlebrowser.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/com.unity.assetbundlebrowser.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/images/ABundleBrowserIconY1756Basic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/images/ABundleBrowserIconY1756Basic.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/images/ABundleBrowserIconY1756Scene.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/images/ABundleBrowserIconY1756Scene.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/images/browser_configure2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/images/browser_configure2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/images/browser_header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Documentation/images/browser_header.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleBrowserMain.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleBrowserMain.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleBuildTab.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleBuildTab.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleDataSource.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleDataSource/ABDataSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleDataSource/ABDataSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleDataSource/ABDataSourceProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleDataSource/ABDataSourceProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleDataSource/AssetDatabaseABDataSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleDataSource/AssetDatabaseABDataSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleManageTab.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleManageTab.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleModel.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleModel/ABModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleModel/ABModel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleModel/ABModelAssetInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleModel/ABModelAssetInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleModel/ABModelBundleInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleModel/ABModelBundleInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleTree.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetBundleTree.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetListTree.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/AssetListTree.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/BundleDetailList.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/BundleDetailList.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/Icons/ABundleBrowserIconY1756Basic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/Icons/ABundleBrowserIconY1756Basic.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/Icons/ABundleBrowserIconY1756Scene.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/Icons/ABundleBrowserIconY1756Scene.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/InspectTab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/InspectTab/AssetBundleInspectTab.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/InspectTab/AssetBundleInspectTab.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/InspectTab/AssetBundleRecord.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/InspectTab/AssetBundleRecord.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/InspectTab/InspectSingleBundle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/InspectTab/InspectSingleBundle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/InspectTab/InspectTreeView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/InspectTab/InspectTreeView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/MessageList.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/MessageList.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/MessageSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/MessageSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/Unity.AssetBundleBrowser.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Editor/Unity.AssetBundleBrowser.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/QAReport.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/QAReport.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/Tests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/license.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundles-Browser-master/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lua/JsonUtility.lua" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Lua/JsonUtility.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lua/Main.lua" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Lua/Main.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lua/Object.lua" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Lua/Object.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lua/SplitTools.lua" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Lua/SplitTools.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LuaManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LuaManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XLua/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XLua/Examples/12_ReImplementInLua.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XLua/Examples/12_ReImplementInLua/ReImplementInLua.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XLua/Examples/12_ReImplementInLua/ReImplementInLua.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XLua/Gen/DelegatesGensBridge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XLua/Gen/DelegatesGensBridge.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2db6859c468d444aa4fc0a91d37e5d403a00/25/626eb608/NativeInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../xLua-Project/Assets/Scripts/CSharp Call Lua/LuaManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Selectable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../xLua-Project/Assets/Scripts/Lua Call CSharp/LuaCallCSharp.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FqtnGyqJSLtmk7j9rIxw7NuWDe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RunManager" selected="Emmy Debugger(NEW).Attach Lua to Unity">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -24,5 +166,52 @@
       </option>
       <method v="2" />
     </configuration>
+    <configuration name="Attach Lua to Unity" type="lua.emmy.debugger" factoryName="Emmy Debugger(NEW)">
+      <module name="rider.module" />
+      <option name="TYPE" value="1" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="15888" />
+      <option name="PIPE" value="emmy" />
+      <option name="WIN_ARCH" value="1" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+      <item itemvalue="Emmy Debugger(NEW).Attach Lua to Unity" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="816e3fed-de37-4545-8c8b-4068a3d95c51" name="Changes" comment="" />
+      <created>1665231609758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665231609758</updated>
+      <workItem from="1665231609760" duration="3361000" />
+      <workItem from="1665236706615" duration="1370000" />
+      <workItem from="1665238103282" duration="1237000" />
+      <workItem from="1665239367541" duration="753000" />
+      <workItem from="1665279050841" duration="5049000" />
+      <workItem from="1665309187196" duration="1900000" />
+      <workItem from="1665316029954" duration="5305000" />
+      <workItem from="1665471613043" duration="10194000" />
+      <workItem from="1665546419660" duration="9542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

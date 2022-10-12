@@ -16,8 +16,8 @@ public class LuaManager : Singleton<LuaManager>
         luaEnv ??= new LuaEnv();
 
         // 加载 lua脚本重定向
-        luaEnv.AddLoader(MyCustomLoader);
-        // luaEnv.AddLoader(CustomABLoader);
+        // luaEnv.AddLoader(MyCustomLoader);
+        luaEnv.AddLoader(CustomABLoader);
     }
 
     /// 传入 lua文件名执行 lua脚本
@@ -26,13 +26,13 @@ public class LuaManager : Singleton<LuaManager>
         DoString($"require('{luaFileName}')");
     }
 
-    /// 执行 lua语言
+    /// 执行lua语言
     public void DoString(string luaCode)
     {
         luaEnv?.DoString(luaCode);
     }
 
-    /// 释放 lua垃圾
+    /// 释放lua垃圾
     public void Tick()
     {
         luaEnv?.Tick();
