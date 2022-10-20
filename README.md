@@ -1,1 +1,1 @@
-# xLua-SimpleBag-Project
+xLua配合AB包实现简单的背包数据读取和展示
